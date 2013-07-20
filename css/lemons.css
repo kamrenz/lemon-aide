@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'WalkwaySemiBoldRegular';
+    src: url('font/Walkway_SemiBold-webfont.eot');
+    src: url('font/Walkway_SemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('font/Walkway_SemiBold-webfont.woff') format('woff'),
+    url('font/Walkway_SemiBold-webfont.ttf') format('truetype'),
+    url('font/Walkway_SemiBold-webfont.svg#WalkwaySemiBoldRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'WalkwaySemiBoldRegular',Verdana,sans-serif;
+}
+
+.title {
+    font-family: 'Kite One',sans-serif;
+}
